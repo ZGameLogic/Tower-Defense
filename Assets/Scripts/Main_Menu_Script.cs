@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Play_Button_Clicked : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class Play_Button_Clicked : MonoBehaviour
 
    public void OnSettingsClicked()
    {
-      print("Settings Clicked");
+      SceneManager.LoadScene("Settings");
    }
 
    public void OnQuitGameClicked()
