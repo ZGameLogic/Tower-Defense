@@ -1,0 +1,2 @@
+## Zabory's tower defence
+Goal: Defend your castle wall from the forces of evil that emerge from the ebony forest from the west. Build your colony to mine for resources, farm, craft and create munitions for your defense
